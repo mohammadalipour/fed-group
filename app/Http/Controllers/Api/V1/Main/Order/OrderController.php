@@ -11,7 +11,6 @@
 	use App\Repositories\UserRepository;
 	use Tymon\JWTAuth\Facades\JWTAuth;
 	
-	
 	class OrderController extends ApiController
 	{
 		protected $order;
